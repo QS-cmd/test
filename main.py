@@ -1,3 +1,3 @@
-def f(x): return x%2 == 0
-filter(f,range(7))
-print(list(filter(f,range(7))))
+x = 2
+y = 3
+print(f'the sum of {x} and {y} is {x+y}')
